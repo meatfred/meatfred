@@ -1,46 +1,95 @@
-i will change the color + image later its 5am
+<!--arthur made this-->
 
-
-<br>
-<p align="center"><img src="https://i.postimg.cc/YSyyrKsj/IMG-6516.png"  align="left" width="50%" /></p>
+<div id="header"align="center">
 </p>
-<p align="center">
-
+<table>
+  <thead>
+    <tr>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img align="center" width="200px" salt="image" src="https://github.com/user-attachments/assets/e632bc97-0afe-43e0-b454-cef52253e0bc"></td>
+      <td>
+      <p align="center">
+      $${\color{#1c309a}roachㅤ :  }$$
+${\color{#ffdfcc}ameㅤ :ㅤ}$
+      $${\color{#ffdfcc}patriotㅤㅤ}$$
+    <br>
+$${\color{#1c309a}they .  }$$
+$${\color{#ffdfcc} he .}$$
+      $${\color{#ffdfcc} it . }$$
+      $${\color{#ffdfcc} axe }$$
+    <br>
+$${\color{#1c309a} alfred ㅤFICKTINㅤ .}$$
+　　
+$${\color{#800020}texan. }$$
 <br>
-  
- <tr>
- <td>
+$${\color{#1c309a} 19 / adult }$$
+$${\color{#800020} ㅤengㅤ speaker  }$$
+        <br>
 
-$${\color{#625DEF} @ USofAmerica }$$
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&pause=1000&color=975AEC&width=300&lines=I+love+my+family!" alt="Typing SVG" /></a>
-<br>
+<details>
+<summary>$\color{#ffdfcc}{\textsf{ㅤㅤㅤㅤㅤDNI ::ㅤㅤㅤㅤㅤ}}$</summary>
+    <br>
+   $${\color{#ffdfcc} ★ }$$
+    $${\color{#800020}ㅤpro / darkshippers . }$$
+    <br>
+     $${\color{#ffdfcc} ★ }$$
+     $${\color{#800020} ㅤ nsfw ㅤskins/roleplayers }$$
+  <br>
+     $${\color{#ffdfcc} ★ }$$
+    $${\color{#800020}ㅤusuk , ㅤcaname,ㅤ frus , ㅤspamano ㅤshippers   . }$$
+    <br>
+     $${\color{#ffdfcc} ★ }$$
+    $${\color{#800020}ㅤneonazisㅤ . ㅤmaga }$$
+    <br>
+     $${\color{#ffdfcc} ★ }$$
+       $${\color{#800020}ㅤslurs ㅤspammers }$$
+
+  </details>
   <details>
-<summary>$\color{#FDF1F3}{\textsf{ㅤㅤㅤㅤㅤABOUTㅤMEㅤㅤㅤㅤㅤ}}$</summary>
+<summary>$\color{#ffdfcc}{\textsf{ㅤㅤㅤㅤㅤIWC ::ㅤㅤㅤㅤㅤ}}$</summary>
     <br>
-    <p align="center">
-$${\color{#B255CB}ॱֺּׅ✦ㅤRoachㅤㅤ}$$
-$${\color{#F2D4D5}ᛝ}$$
-$${\color{#B45FE4} ㅤㅤPatriot}$$
-$${\color{#F2D4D5}ᛝ}$$
-$${\color{#7E5FE4} ㅤㅤAme ᩧ꒱}$$
+       $${\color{#ffdfcc} ★ }$$
+    $${\color{#1c309a} almostㅤ everyㅤ ship ,ㅤ espㅤ ifㅤ roleplaying   ,,, }$$
     <br>
-$${\color{#DA77AD}𝄞They ㅤㅤ}$$
-$${\color{#F1AFCD}+}$$
-$${\color{#D14DAA}He}$$
-$${\color{#F2D4D5}ᛝ}$$
-$${\color{#BE0F67}Eng}$$
-$${\color{#DB357A}Only}$$
+       $${\color{#ffdfcc} ★ }$$
+    $${\color{#1c309a}  iㅤ projectㅤ tooㅤ muchㅤ on ㅤalfred . }$$
     <br>
-$${\color{#8682E9}◝ྀ18}$$
-$${\color{#6F56E5}10.04}$$
-$${\color{#F2D4D5}ᛝ}$$
-$${\color{#DF73E3}Alfred}$$
-$${\color{#E260B0}Kin}$$
-$${\color{#F2D4D5}ᛝ}$$
-$${\color{#FF71A0}Texan}$$
+       $${\color{#ffdfcc} ★ }$$
+    $${\color{#1c309a} doubles ㅤhvy ㅤiwc . }$$
     <br>
+       $${\color{#ffdfcc} ★ }$$
+    $${\color{#1c309a} trollㅤ skins . }$$
 
-  </tr>
-   </td>
-   </p>
+  </details>
+<br>
+<br>
+    </tr>
+</p>
+</td>
+</table>
+</div>
 
+<br>
+
+<p align="center">⠀
+ <a href="https://democracy.atabook.org/"> <img src="https://github.com/user-attachments/assets/3a3a2ad1-fe32-44d3-887a-47fd655e1d4f" alt="sign ata!" width="130"></a>　　　
+<a href="https://meatfred.straw.page/"> <img src="https://github.com/user-attachments/assets/986d6b56-4df4-4637-a73e-61e682e91ae5" alt="sign ata!" width="130"></a>　　　
+  <a href="https://thestates.straw.page/"> <img src="https://github.com/user-attachments/assets/7c8e01d0-1455-4b5c-99d2-7706768df533" alt="sign ata!" width="130"></a> 
+</p>
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3a622248-d7e9-4447-8a5d-fedfa6fd0285" width="100%" />
+</p>
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f8467079-c42e-431e-9f7a-0af1767483c5" width="50%" />
+</p>
+<br>
+<br>
+<p align="center">
+<a href="https://github.com/UEnclave"> <img src="https://github.com/user-attachments/assets/d8d27683-cf9b-4f88-af94-2d2194e852cd" alt="sign ata!" width="130"></a>　　
+<a href="https://github.com/USofAmerica"> <img src="https://github.com/user-attachments/assets/1217b022-e7e5-48bb-8a59-cd9186901fb3" alt="sign ata!" width="130"></a>　　
+</p>
