@@ -76,8 +76,8 @@ $${\color{#800020} ㅤengㅤ speaker  }$$
 
 <p align="center">⠀
  <a href="https://democracy.atabook.org/"> <img src="https://github.com/user-attachments/assets/3a3a2ad1-fe32-44d3-887a-47fd655e1d4f" alt="sign ata!" width="130"></a>　　　
-<a href="https://meatfred.straw.page/"> <img src="https://github.com/user-attachments/assets/986d6b56-4df4-4637-a73e-61e682e91ae5" alt="sign ata!" width="130"></a>　　　
-  <a href="https://thestates.straw.page/"> <img src="https://github.com/user-attachments/assets/7c8e01d0-1455-4b5c-99d2-7706768df533" alt="sign ata!" width="130"></a> 
+<a href="https://biteful.straw.page/"> <img src="https://github.com/user-attachments/assets/986d6b56-4df4-4637-a73e-61e682e91ae5" alt="sign ata!" width="130"></a>　　　
+  <a href="https://meatfred.straw.page/"> <img src="https://github.com/user-attachments/assets/7c8e01d0-1455-4b5c-99d2-7706768df533" alt="sign ata!" width="130"></a> 
 </p>
 <br>
 <p align="center">
